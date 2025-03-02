@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameLibrary", "GameLibrary\GameLibrary.csproj", "{F471432D-1EE3-4F30-B001-4A52DD49FA1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GamesDbContextLibrary", "GamesDbContextLibrary\GamesDbContextLibrary.csproj", "{1802A268-1BEB-4D36-AC18-00A09C06C299}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dz_Migrations", "Dz_Migrations\Dz_Migrations.csproj", "{9D8FABF7-B63E-4FF1-8CEB-CECF2A496126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F471432D-1EE3-4F30-B001-4A52DD49FA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F471432D-1EE3-4F30-B001-4A52DD49FA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F471432D-1EE3-4F30-B001-4A52DD49FA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F471432D-1EE3-4F30-B001-4A52DD49FA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1802A268-1BEB-4D36-AC18-00A09C06C299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1802A268-1BEB-4D36-AC18-00A09C06C299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1802A268-1BEB-4D36-AC18-00A09C06C299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1802A268-1BEB-4D36-AC18-00A09C06C299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8FABF7-B63E-4FF1-8CEB-CECF2A496126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8FABF7-B63E-4FF1-8CEB-CECF2A496126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8FABF7-B63E-4FF1-8CEB-CECF2A496126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8FABF7-B63E-4FF1-8CEB-CECF2A496126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
