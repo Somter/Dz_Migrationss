@@ -7,11 +7,11 @@ namespace Dz_Migrations
 {
     internal class Program
     {
-        static void Main()
+        static void Main() 
         {
             try
             {
-                using (var db = new GamesContext())
+                using (var db = new GamesContext()) 
                 {
                     if (!db.Games.Any())
                     {
